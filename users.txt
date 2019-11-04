@@ -1,0 +1,18 @@
+{
+    login:"AndreySFN",
+    email:"AndreySFN@mail.ru",
+    password:"sfdgsdfgs",
+    registrationDate:"Mon Nov 04 2019 19:28:53 GMT+0300 (GMT+03:00)",
+},
+{
+    login:"5635.99",
+    email:"gstrujytejkdhk@gfgsfd",
+    password:"fdsgsfdgsdf",
+    registrationDate:"Mon Nov 04 2019 19:29:01 GMT+0300 (GMT+03:00)",
+},
+{
+    login:"ыавпывап",
+    email:"adfasdf@fdgsdfg",
+    password:"ыапывапыап",
+    registrationDate:"Mon Nov 04 2019 19:42:53 GMT+0300 (GMT+03:00)",
+},
